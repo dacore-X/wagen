@@ -41,3 +41,5 @@ npm start
 ```sh
 docker-compose up
 ```
+## **Архитектура приложения**
+![architecture-wagen](https://user-images.githubusercontent.com/86720231/170878246-bb933127-af22-4bf9-a228-057a92d681c2.png)
