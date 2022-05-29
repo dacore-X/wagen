@@ -1,0 +1,12 @@
+version: '3.9'
+
+services:
+  backend:
+    image: ghcr.io/dacore-x/wagen/wagen-backend:latest
+    ports:
+      - "8000:8000"
+
+  frontend:
+    image: ghcr.io/dacore-x/wagen/wagen-frontend:latest
+    ports:
+      - "3000:3000"
