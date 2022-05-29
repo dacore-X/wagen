@@ -38,3 +38,6 @@ npm start
 "proxy": "http://localhost:8000"
 ```
 ## **Docker**
+```sh
+docker-compose up
+```
